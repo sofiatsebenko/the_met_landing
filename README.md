@@ -1,4 +1,60 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+
+# The MET Landing Page
+
+A responsive landing page inspired by The Metropolitan Museum of Art website.
+
+## Overview
+
+The page presents essential visitor information and gives users access to the museum's exhibitions, online collections, and contact details.
+
+## Features
+
+- Museum opening hours for both locations
+- Navigation menu with section links
+- Current exhibitions section
+- Online exploration cards
+- Contact information with clickable phone numbers and map links
+- Contact form with required fields
+- Responsive page layout
+
+## Built With
+
+- HTML5
+- SCSS
+- JavaScript
+
+## Project Structure
+
+```text
+src/
+├── icons/
+├── scripts/
+├── styles/
+└── index.html
+```
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Navigate to the project directory and install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+## Author
+
+Sofia Tsebenko
+
+
